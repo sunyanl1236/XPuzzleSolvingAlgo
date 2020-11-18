@@ -1,5 +1,9 @@
 # XPuzzleSolvingAlgo
 
+Team member:
+Shiyu Lin
+Yilu Liang
+
 Github URL: https://github.com/sunyanl1236/XPuzzleSolvingAlgo
 There are lots of outputs files, the source files are on the bottom.
 
